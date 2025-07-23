@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vasil K H</h1>
 <h3 align="center">A Full-Stack Web Developer in UAE</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasilhakeem" alt="vasilhakeem" /></a> </p>
 
 - 🔭 I’m currently working on [a Library Management App](https://github.com/vasilhakeem/Library-Management---Django-Rest-Framework)
 
